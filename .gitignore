@@ -1,0 +1,24 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore build outputs and executables
+*.out
+*.o
+*.obj
+*.exe
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore diagram or temporary files
+*.drawio
+*.tmp
+
+# Ignore compiled libraries
+*.a
+*.so
+*.dll
